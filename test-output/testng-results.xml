@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-22T12:00:24 IST" name="Default suite" finished-at="2024-03-22T12:00:48 IST" duration-ms="23932">
+    <groups>
+    </groups>
+    <test started-at="2024-03-22T12:00:24 IST" name="Default test" finished-at="2024-03-22T12:00:48 IST" duration-ms="23932">
+      <class name="papgeobjectivemodel.Pagec">
+        <test-method is-config="true" signature="ram()[pri:0, instance:papgeobjectivemodel.Pagec@2b40ff9c]" started-at="2024-03-22T12:00:24 IST" name="ram" finished-at="2024-03-22T12:00:38 IST" duration-ms="13790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ram -->
+        <test-method signature="test1()[pri:1, instance:papgeobjectivemodel.Pagec@2b40ff9c]" started-at="2024-03-22T12:00:38 IST" name="test1" finished-at="2024-03-22T12:00:43 IST" duration-ms="5368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="check()[pri:2, instance:papgeobjectivemodel.Pagec@2b40ff9c]" started-at="2024-03-22T12:00:43 IST" name="check" finished-at="2024-03-22T12:00:45 IST" duration-ms="1465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method signature="full()[pri:3, instance:papgeobjectivemodel.Pagec@2b40ff9c]" started-at="2024-03-22T12:00:45 IST" name="full" finished-at="2024-03-22T12:00:48 IST" duration-ms="2891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- full -->
+        <test-method is-config="true" signature="closewindow()[pri:0, instance:papgeobjectivemodel.Pagec@2b40ff9c]" started-at="2024-03-22T12:00:48 IST" name="closewindow" finished-at="2024-03-22T12:00:48 IST" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closewindow -->
+      </class> <!-- papgeobjectivemodel.Pagec -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
